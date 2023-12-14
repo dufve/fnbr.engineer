@@ -11,7 +11,6 @@
     <div class="container">
       <h1>Epic Games "XAL" Token Decoder</h1>
       <p id="description">A user-friendly interface for encoding and decoding Epic Games XAL tokens, all locally in your browser using JavaScript.</p>
-      <!-- Add the toggle switch and label -->
       <label class="switch">
         <input type="checkbox" id="toggleSwitch" checked>
         <span class="slider round">
@@ -20,13 +19,10 @@
       </label>
       <form id="decoderForm">
         <div class="input-container">
-          <!-- Add this line -->
           <textarea id="encodedString" name="encodedString" placeholder="Please enter your XAL token or decoded JSON string..."></textarea>
           <div id="error"></div>
         </div>
-        <!-- Add this line -->
         <button type="button" id="decryptButton">Decode</button>
-        <!-- Set the initial button text to Decode -->
       </form>
     </div>
   </body>
