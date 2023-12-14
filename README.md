@@ -29,6 +29,10 @@ To deploy this project locally, follow these steps:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Disclaimer
+
+This software is provided for educational and scientific purposes only. The author or contributors are not responsible for any possible harm caused by misuse of this software. It is provided as-is without any express or implied warranty. In no event will the author be held liable for any damages arising from the use of this software. Any modification or use of the software for purposes other than educational and scientific purposes is at the user's own risk and discretion.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
