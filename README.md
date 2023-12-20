@@ -4,7 +4,7 @@ The fnbr.engineer platform provides a wide range of services related to Epic Gam
 
 ## Live Website
 
-The website is already deployed and can be accessed at [fnbr.engineer](https://fnbr.engineer/xal). Documentation coming soon.
+The website is already deployed and can be accessed at [fnbr.engineer](https://fnbr.engineer). Documentation coming soon.
 
 ## Features
 
