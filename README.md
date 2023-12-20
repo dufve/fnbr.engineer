@@ -25,6 +25,19 @@ To deploy this project locally, follow these steps:
 2. Enter your XAL token or decoded JSON string in the text area.
 3. Click the "Decode" button to decode your XAL token or "Encode" to encode your JSON string.
 
+## To-Do List
+
+- [ ] **Merge API and Website Repositories:** Aim to unify the API and website codebases into a single repository to simplify development and ensure consistency.
+
+- [ ] **Develop Random XAL Token Generator:** Implement a feature to create random, valid XAL tokens on demand, enhancing testing and simulation of authentication processes.
+
+- [ ] **Enable Retrieval of Browser's Current XAL Token:** Design functionality on the website to fetch the user's current XAL token from their browser.
+
+- [ ] **Create Comprehensive Documentation:** Produce detailed documentation that includes setup instructions, usage guidelines, and explanations of key features, assisting both end-users and future contributors.
+
+- [ ] **Set Up CI/CD Pipeline:** Establish a Continuous Integration and Continuous Deployment pipeline to improve the transparency and efficiency of live updates and code integrations.
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
