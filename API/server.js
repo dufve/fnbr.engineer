@@ -24,8 +24,9 @@ app.get('/:page', (req, res) => {
     res.sendFile(path.join(__dirname, `../Website/${req.params.page}/${req.params.page}.html`));
 });
 
-app.use('/xal', xalRoutes);
-app.use('/checksum', checksumRoutes);
+// Set up API routes under /api/
+app.use('/api/xal', xalRoutes);
+app.use('/api/checksum', checksumRoutes);
 
 app.use('*', (req, res) => {
     res.status(404).json({ message: 'Endpoint not found, you might be using the wrong method.' });
