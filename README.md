@@ -1,42 +1,37 @@
-# Epic Games "XAL" Token Decoder
+# fnbr.engineer
 
-This is a user-friendly interface for encoding and decoding Epic Games XAL tokens. It is implemented entirely in JavaScript and runs locally in your browser.
-
-## Features
-
-- Encode and decode XAL tokens
-- User-friendly interface
-- Runs locally in your browser, no server required
+The fnbr.engineer platform provides a wide range of services related to Epic Games and Fortnite. These include generating, encoding, and decoding XAL tokens, calculating checksums, and many other functionalities.
 
 ## Live Website
 
-The website is already deployed and can be accessed at [fnbr.engineer/xal](https://fnbr.engineer/xal).
+The website is already deployed and can be accessed at [fnbr.engineer](https://fnbr.engineer/xal). Documentation coming soon.
+
+## Features
+
+- User-friendly interface
+- Open source
+- Extensive API capabilities
 
 ## Deployment
 
 To deploy this project locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the `xal/index.html` file in your web browser.
+2. Navigate to the project directory in your terminal.
+3. Install the necessary dependencies with `npm install`.
+4. Start the server with `npm start`.
+5. Open your web browser and navigate to http://localhost:3000 to view the website.
+6. Access the API endpoints at http://localhost:3000/api/
 
-## Usage
-
-1. Navigate to the deployed website at [fnbr.engineer/xal](https://fnbr.engineer/xal) or open the `xal/index.html` file in your web browser if you have deployed it locally.
-2. Enter your XAL token or decoded JSON string in the text area.
-3. Click the "Decode" button to decode your XAL token or "Encode" to encode your JSON string.
+*Please note that you need to have Node.js and npm installed on your machine to run this project. If you don't have them installed, you can download them [here](https://nodejs.org/).*
 
 ## To-Do List
 
-- [ ] **Merge API and Website Repositories:** Aim to unify the API and website codebases into a single repository to simplify development and ensure consistency.
+- [ ] **Develop Random XAL Token Generator:** Implement a feature to create random, valid XAL tokens on demand, enhancing testing and simulation of authentication processes. **In progress**.
 
-- [ ] **Develop Random XAL Token Generator:** Implement a feature to create random, valid XAL tokens on demand, enhancing testing and simulation of authentication processes.
-
-- [ ] **Enable Retrieval of Browser's Current XAL Token:** Design functionality on the website to fetch the user's current XAL token from their browser.
+- [ ] **Enable Retrieval of Browser's Current XAL Token:** Design functionality on the website to fetch the user's current XAL token from their browser. **In progress**.
 
 - [ ] **Create Comprehensive Documentation:** Produce detailed documentation that includes setup instructions, usage guidelines, and explanations of key features, assisting both end-users and future contributors.
-
-- [ ] **Set Up CI/CD Pipeline:** Establish a Continuous Integration and Continuous Deployment pipeline to improve the transparency and efficiency of live updates and code integrations.
-
 
 ## Contributing
 
