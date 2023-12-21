@@ -1,10 +1,11 @@
 # fnbr.engineer
+[![Documentation Status](https://readthedocs.org/projects/fnbrengineer/badge/?version=latest)](https://fnbrengineer.readthedocs.io/en/latest/?badge=latest)
 
 The fnbr.engineer platform provides a wide range of services related to Epic Games and Fortnite. These include generating, encoding, and decoding XAL tokens, calculating checksums, and many other functionalities.
 
 ## Live Website
 
-The website is already deployed and can be accessed at [fnbr.engineer](https://fnbr.engineer). Documentation coming soon.
+The website is already deployed and can be accessed at [fnbr.engineer](https://fnbr.engineer).
 
 ## Features
 
@@ -14,16 +15,7 @@ The website is already deployed and can be accessed at [fnbr.engineer](https://f
 
 ## Deployment
 
-To deploy this project locally, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory in your terminal.
-3. Install the necessary dependencies with `npm install`.
-4. Start the server with `npm start`.
-5. Open your web browser and navigate to http://localhost:3000 to view the website.
-6. Access the API endpoints at http://localhost:3000/api/
-
-*Please note that you need to have Node.js and npm installed on your machine to run this project. If you don't have them installed, you can download them [here](https://nodejs.org/).*
+To deploy this project locally, please read the documentation.
 
 ## To-Do List
 
