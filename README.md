@@ -23,8 +23,6 @@ To deploy this project locally, please read the documentation.
 
 - [ ] **Enable Retrieval of Browser's Current XAL Token:** Design functionality on the website to fetch the user's current XAL token from their browser. **In progress**.
 
-- [ ] **Create Comprehensive Documentation:** Produce detailed documentation that includes setup instructions, usage guidelines, and explanations of key features, assisting both end-users and future contributors.
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
